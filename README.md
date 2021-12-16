@@ -21,5 +21,4 @@ Here are some ideas to get you started:
 ⚡ Fun fact: I enjoy sailing and going to Mariner's games here in Seattle in the summer.
 
 📫 You can reach me at either:
- david.mingeaud_at_gmail.com
- mingeaud_at_oregonstate.edu
+ david.mingeaud_at_gmail.com or mingeaud_at_oregonstate.edu
