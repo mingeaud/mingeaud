@@ -14,11 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently an aerospace engineer in Seattle, but I am transitioning to a new career in software development.
-
-🌱 I’m currently learning Software Engineering at Oregon State Univeristy.
+🔭 I’m a software engineer in Seattle.
 
 ⚡ Fun fact: I enjoy sailing and going to Mariner's games here in Seattle in the summer.
 
-📫 You can reach me at either:
- david.mingeaud_at_gmail.com or mingeaud_at_oregonstate.edu
+📫 You can reach me at:
+ david.mingeaud_at_gmail.com
